@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a Full-Stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Name corversion web app
@@ -30,9 +30,10 @@ https://nameconversionwebapp.netlify.app/
 
 
 ## Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/92782806/211470975-d3c9bf6d-94bc-4572-bedb-5153cf9df880.png)
+![Screenshot 2](https://user-images.githubusercontent.com/92782806/211470980-909478c1-81ea-4429-965f-de2c46933c1c.png)
 
-![](./Image/Screenshot%201.png)
-![](./Image/Screenshot%202.png)
+
 
 
 ## Feedback
